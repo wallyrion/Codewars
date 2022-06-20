@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePigLatin", "SimplePigLatin\SimplePigLatin.csproj", "{996BC0FA-6DE3-42E4-8E78-7709EA86D594}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grasshopper.Summation", "Grasshopper.Summation\Grasshopper.Summation.csproj", "{8C65A30F-148E-49E9-AA19-3F637A714377}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ones and Zeros", "Ones and Zeros\Ones and Zeros.csproj", "{71EFBD1B-5D75-41B6-BBA5-9A2AF1493D7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Navigating a Maze", "Navigating a Maze\Navigating a Maze.csproj", "{2D78F7CC-A198-41B4-B353-5B28D4E2C092}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{996BC0FA-6DE3-42E4-8E78-7709EA86D594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{996BC0FA-6DE3-42E4-8E78-7709EA86D594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{996BC0FA-6DE3-42E4-8E78-7709EA86D594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{996BC0FA-6DE3-42E4-8E78-7709EA86D594}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C65A30F-148E-49E9-AA19-3F637A714377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C65A30F-148E-49E9-AA19-3F637A714377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C65A30F-148E-49E9-AA19-3F637A714377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C65A30F-148E-49E9-AA19-3F637A714377}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71EFBD1B-5D75-41B6-BBA5-9A2AF1493D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71EFBD1B-5D75-41B6-BBA5-9A2AF1493D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71EFBD1B-5D75-41B6-BBA5-9A2AF1493D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71EFBD1B-5D75-41B6-BBA5-9A2AF1493D7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D78F7CC-A198-41B4-B353-5B28D4E2C092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D78F7CC-A198-41B4-B353-5B28D4E2C092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D78F7CC-A198-41B4-B353-5B28D4E2C092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D78F7CC-A198-41B4-B353-5B28D4E2C092}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
